@@ -1,2 +1,2 @@
 # Aulas-de-Python
-Códigos feitos em sala de aula
+Olá! Aqui estão alguns dos códigos realizados na minha aula de paradigmas da linguagem de programação em python.
